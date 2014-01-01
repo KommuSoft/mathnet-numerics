@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Numerics/LinearAlgebra/Storage/MatrixStorage.cs">
+    <Files>
+      <File FileName="src/Numerics/LinearAlgebra/Matrix.cs" Line="1" Column="1" />
+      <File FileName="src/Numerics/LinearAlgebra/Storage/MatrixStorage.cs" Line="141" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

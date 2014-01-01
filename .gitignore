@@ -1,8 +1,8 @@
+#Folders
 output
 bin
 obj
 out
-Thumbs.db
 TestResults
 Backup
 .vagrant
@@ -24,3 +24,21 @@ UpgradeLog.htm
 *.so
 *.sdf
 *.opensdf
+
+#Executables and big data
+*.[Dd][Ll][Ll]
+*.[Ee][Xx][Ee]
+*.[Xx][Mm][Ll]
+
+#Temporary files
+*~
+*.*~*
+Thumbs.db
+
+#Folders
+*[Oo][Uu][Tt][Pp][Uu][Tt]/*
+*[Bb][Ii][Nn]/*
+*[Oo][Uu][Tt]/*
+*[Oo][Uu][Tt][Pp][Uu][Tt]/*
+*[Tt][Ee][Ss][Tt][Rr][Ee][Ss][Uu][Ll][Tt][Ss]/*
+*[Bb][Aa][Cc][Kk][Uu][Pp]/*
